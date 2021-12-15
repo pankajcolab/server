@@ -1,0 +1,18 @@
+h1
+{
+    color: green;
+    text-align: center;
+}
+input
+{
+    width: 400px;
+    height: 30px;
+    border-radius: 10px;
+    border-bottom-color: green;
+}
+button {
+    width: 100px;
+    height: 50px;
+    border-radius: 50%;
+
+}
